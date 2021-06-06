@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#CAB8ED</color>
+
+    //background color
+    <color name="colorBackgroundGray">#292C36</color>
+    //highlighted darker color
+    //highlight text color
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextBlack">#000000</color>
+
+    //Button Colors
+    <color name="colorGradientStartGray">#3A404C</color>
+    <color name="colorGradientEndGray">#666B75</color>
+    <color name="colorBorder">#000000</color>
+
+    //Start Stop Button Colors
+    <color name="colorStartBtnGreen">#05D610</color>
+    <color name="colorStopBtnRed">#CC1010</color>
+
+    //Delete button colors for exercise_row.xml
+    <color name="colorDeleteButtonRed">#BF360C</color>
+    <color name="colorDeleteButtonPressedBrightRed">#E64A19</color>
+
+    //Edit Button colors for exercise_row.xml
+    <color name="colorEditButton">#666B75</color>
+    <color name="colorEditButtonPressed">#959CAA</color>
+
+    //Save button colors for for exercise_row.xml
+    <color name="colorSaveButton">#004D40</color>
+    <color name="colorSaveButtonPressed">#00796B</color>
+
+    //Title Box
+    <color name="lightBorder">#3A404C</color>
+
+    //Add/update button green
+    <color name="energeticGreen">#08B605</color>
+    <color name="powerhouseRed">#B60505</color>
+
+    //Active exercise indicator
+    <color name="colorActiveIndicator">#743A404C</color>
+    //Active Workout Clock background color
+    <color name="colorTransparentBlack">#75000000</color>
+</resources>

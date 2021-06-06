@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- timer dimensions -->
+    <dimen name="timerButtonPadding">8dp</dimen>
+    <dimen name="startStopButtonRadius">25dp</dimen>
+
+</resources>

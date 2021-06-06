@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/energeticGreen"
+                android:endColor="@color/black"/>
+            <padding
+                android:top="@dimen/timerButtonPadding"
+                android:bottom="@dimen/timerButtonPadding"
+                android:left="@dimen/timerButtonPadding"
+                android:right="@dimen/timerButtonPadding"/>
+            <stroke
+                android:width="5dp"
+                android:color="@color/colorBorder"/>
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/colorTextWhite"
+                android:endColor="@color/energeticGreen" />
+            <padding
+                android:top="@dimen/timerButtonPadding"
+                android:bottom="@dimen/timerButtonPadding"
+                android:left="@dimen/timerButtonPadding"
+                android:right="@dimen/timerButtonPadding"/>
+            <stroke
+                android:width="5dp"
+                android:color="@color/colorBorder"/>
+        </shape>
+    </item>
+</selector>

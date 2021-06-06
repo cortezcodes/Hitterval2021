@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Hitterval2021</string>
+
+    <!-- Main Page-->
+    <string name="btn_open_timer">Timer</string>
+    <string name="btn_create_workout">+</string>
+
+    <!-- Timer -->
+    <string name="btn_start">START</string>
+    <string name="text_view_minutes_default">00:00</string>
+    <string name="btn_min_increase">M UP</string>
+    <string name="btn_min_decrease">M DWN</string>
+    <string name="btn_sec_increase">S UP</string>
+    <string name="btn_sec_decrease">S DWN</string>
+
+    <!--Add Workout -->
+    <string name="hint_name">Workout Name</string>
+    <string name="add_name_button">Add</string>
+    <string name="rounds_title">Rounds:</string>
+    <string name="total_time_title">Total Time:</string>
+    <string name="rounds_count_default">0</string>
+    <string name="time_default">5:00</string>
+    <string name="add_workout_fragment_round_default">Round 1 x5</string> <!-- Placeholder: Delete -->
+    <string name="round_time_default">10 Min</string> <!-- Placeholder: Delete -->
+    <string name="exercise_default">Push Ups: 1 min</string> <!-- Placeholder: Delete -->
+    <string name="add_round_string">+Round</string>
+    <string name="edit_round_string">Edit Round</string>
+    <string name="add_exercise_string">+Exercise</string>
+    <string name="edit_exercise_string">Edit Exercise</string>
+
+    <!-- Add Round Fragment -->
+    <string name="add_round_fragment_rounds_default">Round 1</string> <!-- Placeholder: Delete -->
+    <string name="add_round_fragment_total_time_default">Total Time:</string> <!-- Placeholder: Delete -->
+    <string name="add_round_fragment_sets_default">Sets:</string> <!-- Placeholder: Delete -->
+    <string name="add_round_fragment_weight_hint">Wt</string>
+    <string name="add_round_fragment_exercise_hint">Exercise</string>
+    <string name="add_round_fragment_minutes_hint">Min</string>
+    <string name="add_round_fragment_seconds_hint">Sec</string>
+    <string name="add_round_fragment_sets_hint">Sets</string>
+    <string name="add_round_fragment_reps_hint">Reps</string>
+    <string name="add_round_fragment_add_button">ADD</string>
+    <string name="add_round_fragment_clear_button">CLEAR</string>
+    <string name="add_round_fragment_update_button">UPDATE</string>
+    <string name="add_round_fragment_exercise_textview_default">Exercises</string>
+    <string name="add_round_fragment_add_exercise_button">+</string>
+    <string name="cd_cancel">Cancel</string>
+
+    <!--Exercise Row -->
+    <string name="exercise_name_default">Push ups:</string><!-- Delete -->
+    <string name="exercise_rep_default">1 Min</string><!-- Delete -->
+    <string name="add_button_text">SAVE</string>
+    <string name="delete_button_text">DELETE</string>
+    <string name="edit_button_text">EDIT</string>
+
+    <!-- Workout Description Fragment -->
+    <string name="workout_name_default">Workout Name: 30 Min</string> <!-- Placeholder: Delete -->
+    <string name="workout_description_default">12 Exercises \n4 Rounds</string>
+    <string name="cd_start_workout">Start Workout</string>
+    <string name="cd_edit_workout">Edit Workout</string>
+
+    <!-- Active Workout Fragmant -->
+    <string name="default_coaches_words">4 sets left! Let\'s go!</string> <!-- Placeholder: Delete -->
+    <string name="cd_home">Home</string>
+    <string name="default_next_exercise">Next Exercise</string> <!-- Placeholder: Delete -->
+    <string name="default_current_exercise">Current Exercise</string> <!-- Placeholder: Delete -->
+    <string name="default_previous_exercise">Previous Exercise</string> <!-- Placeholder: Delete -->
+
+    <!-- workout viewholder -->
+    <string name="default_workout_title">Your First Workout</string>
+
+    <!--Content Description -->
+    <string name="cd_min_up_arrow">Minute up arrow</string>
+    <string name="cd_min_down_arrow">Minute down arrow</string>
+    <string name="cd_sec_up_arrow">Second up arrow</string>
+    <string name="cd_sec_down_arrow">Second down arrow</string>
+    <string name="start_stop_button">Start/Stop button</string>
+    <string name="clock_button">Clock button to navigate to timer</string>
+    <string name="add_workout_button">Add workout button</string>
+    <string name="home_button">Home Button</string>
+    <string name="save_button">Save Button</string>
+</resources>
